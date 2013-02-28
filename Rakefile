@@ -1,9 +1,7 @@
 RAKE_ROOT = __FILE__
 
-
 require "rubygems"
 require "middleman"
-require "middleman-gh-pages"
 require "middleman-core/cli"
 require "./templates"
 
