@@ -1,4 +1,3 @@
-puts "pivotal rb"
 class Middleman::Templates::Pivotal < Middleman::Templates::Base
 
   class_option "css_dir",
