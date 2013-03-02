@@ -3,9 +3,6 @@ RAKE_ROOT = __FILE__
 require "rubygems"
 require "middleman"
 require "middleman-core/cli"
-# require "templates"
-
-puts "helooooooo"
 
 desc "Generate a new Pivotal branded site."
 namespace :static do
